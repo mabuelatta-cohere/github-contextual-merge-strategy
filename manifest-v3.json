@@ -11,7 +11,7 @@
     "scripting"
   ],
   "host_permissions": [
-    "https://github.com/hookdeck/*"
+    "https://github.com/CohereHealth/*"
   ],
   "browser_specific_settings": {
     "gecko": {
